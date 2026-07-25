@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": "Aternos.gg",
   "bot-account": {
-    "username": "PerzaanLive",
-    "password": "",
+    "username": "Aternos.gg",
+    "password": "whatsup",
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
-    "version": "1.21.1"
+    "ip": "SurvivalDunyasi.aternos.me",
+    "port": 57564,
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
@@ -31,7 +31,7 @@
       "repeat-delay": 500,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Perzaan Gaming!",
+        "wsp Yall!",
         "I like to play Minecraft!"
       ]
     },
